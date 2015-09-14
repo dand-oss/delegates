@@ -14,6 +14,6 @@ add_subdirectory(src)
 
 # includes
 install(
-    FILES include/closure.h  include/Delegate.h
+    FILES include/closure.h  include/delegate.h
     DESTINATION include/delegates
     )
